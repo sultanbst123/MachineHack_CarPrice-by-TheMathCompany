@@ -1,6 +1,6 @@
 # MachineHack_CarPrice
 
-Dalam tantangan(Hackathon) memprediksi harga mobil berdasarkan beberapa fitur. Kumpulan data terdiri dari 19237(rows) untuk kumpulan data Train dan 8245(rows) untuk kumpulan data Test.
+memprediksi harga mobil berdasarkan beberapa fitur. Kumpulan data terdiri dari 19237(rows) untuk kumpulan data Train dan 8245(rows) untuk kumpulan data Test.
 
 ## Data analysis with Python
 Menganalisa beberapa fitur yang berhubungan dengan target, membersihkan beberapa fitur dari nilai-nilai yang tidak masuk akal
