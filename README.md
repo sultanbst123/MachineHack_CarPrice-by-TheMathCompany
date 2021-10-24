@@ -10,7 +10,10 @@ Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/MachineHack_CarPrice/blob/main/CarPricePrediction.ipynb
 
 ## Data modelling with Python
-Next!! 
+melakukan feature_selection mengunakan library optuna dan model_selection berdasarkan metrics rmsle(root_mean_squared_log_error), 
+
+Untuk lebih lanjut silahkan kunjungi notebook yang saya buat: 
+https://github.com/sultanbst123/MachineHack_CarPrice/blob/main/Car_Price_Prediction.ipynb
 
 ## Dataset & Information
 https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/overview
