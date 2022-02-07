@@ -1,4 +1,4 @@
-# MachineHack_CarPrice
+# MATHCO.THON: The Data Scientist Hiring Hackathon by TheMathCompany
 
 memprediksi harga mobil berdasarkan beberapa fitur. Kumpulan data terdiri dari 19237(rows) untuk kumpulan data Train dan 8245(rows) untuk kumpulan data Test.
 
@@ -16,4 +16,4 @@ Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/MachineHack_CarPrice/blob/main/Car_Price_Prediction.ipynb
 
 ## Dataset & Information
-https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/overview
+https://machinehack.com/hackathon/data_hack_mathcothon_car_price_prediction_challenge/overview
